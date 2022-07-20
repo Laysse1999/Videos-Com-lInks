@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.tb{
+    display: inline-block;
+}
+p{
+    text-align: center;
+}
+.link{
+    color: white;
+}
